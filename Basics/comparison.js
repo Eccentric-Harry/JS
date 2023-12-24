@@ -16,8 +16,8 @@ console.log(null >= 0); // true
 // all these comparisons have no sertainity ie. unpredictable outputs.
 
 console.log(undefined > 0); // false
-console.log(undefined == 0); // fa;se
-console.log(undefined >= 0); // fa;se
+console.log(undefined == 0); // false
+console.log(undefined >= 0); // false
 
 
 // === also checks the data type
